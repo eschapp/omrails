@@ -1,2 +1,7 @@
-<h1>StaticPages#about</h1>
-<p>Find me in app/views/static_pages/about.html.erb</p>
+<h1>About Us</h1>
+<p>
+    <a href="http://omrails.com/">One Month Rails</a>
+    is a project to teach 
+    <a href="http://rubyonrails.org/">Ruby on Rails</a> 
+    in one month. This is the sample application.
+</p>
