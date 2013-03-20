@@ -1,5 +1,7 @@
 @import "bootstrap";
 
+@import "bootstrap-responsive";
+
 /* universal */
 
 html {
@@ -55,11 +57,11 @@ p {
 
 /* header */
 
-#logo {
+/* #logo {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-  color: #fff;
+  color: black;
   text-transform: uppercase;
   letter-spacing: -1;
   padding-top: 9px;
@@ -68,6 +70,14 @@ p {
 }
 
 #logo:hover {
-  color: #fff;
+  color: black;
   text-decoration: none;
+}
+*/
+.footer {
+	margin-top: 50px;
+	color: $grayLight;
+	a {
+	color: gray;
+	}
 }
